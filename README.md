@@ -1,4 +1,4 @@
-# Mini Way Navigator
+﻿# Mini Way Navigator
 
 A lightweight Java library providing core data structures and models for map-based applications. This framework offers a hierarchical structure for representing roads, paths, nodes, and their relationships in navigation systems.
 
@@ -213,32 +213,12 @@ This library is ideal for:
 - Urban planning tools
 - Delivery routing systems
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
-**Kousha Moeini**
-
+**koushamoeini**
+- Email: koushamoeini@gmail.com
 - GitHub: [@koushamoeini](https://github.com/koushamoeini)
-
-## 🙏 Acknowledgments
-
-- Inspired by OpenStreetMap data structures
-- Designed for educational and practical use in map-based applications
-
----
-
-⭐ If you find this library useful, please consider giving it a star on GitHub!
-
