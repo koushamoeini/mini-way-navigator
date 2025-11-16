@@ -1,0 +1,77 @@
+# Compiled class files
+*~.nib
+*.swp
+*.bak
+*.tmp
+# Temporary files
+
+Thumbs.db
+ehthumbs.db
+.Trashes
+.Spotlight-V100
+._*
+.DS_Store?
+.DS_Store
+# OS Files
+
+.vscode/
+# VS Code
+
+/.nb-gradle/
+/nbdist/
+/dist/
+/nbbuild/
+/nbproject/private/
+# NetBeans
+
+bin/
+.settings/
+.project
+.classpath
+# Eclipse
+
+!**/src/test/**/build/
+!**/src/main/**/build/
+!gradle/wrapper/gradle-wrapper.jar
+build/
+.gradle/
+# Gradle
+
+.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+buildNumber.properties
+dependency-reduced-pom.xml
+release.properties
+pom.xml.next
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.tag
+target/
+# Maven
+
+.idea_modules/
+out/
+*.ipr
+*.iws
+*.iml
+.idea/
+# IntelliJ IDEA
+
+replay_pid*
+hs_err_pid*
+# Virtual machine crash logs
+
+*.rar
+*.tar.gz
+*.zip
+*.ear
+*.nar
+*.war
+*.jar
+# Package Files
+
+*.log
+# Log files
+
+*.class
+
