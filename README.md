@@ -217,8 +217,10 @@ This library is ideal for:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## 👤 Author
 
-**koushamoeini**
+**Kousha Moeini**
 - Email: koushamoeini@gmail.com
 - GitHub: [@koushamoeini](https://github.com/koushamoeini)
+
+---
